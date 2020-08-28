@@ -1,0 +1,22 @@
+{
+    "name": "kraenzle-ritter/timelogger",
+    "description": "Just a small stopwatch",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Kraenzle",
+            "email": "kraenzle@k-r.ch",
+            "homepage": "https://k-r.ch"
+        }
+    ],
+    "homepage": "https://github.com/kraenzle-ritter/timelogger",
+    "keywords": ["Laravel", "timelogger", "stopwatch"],
+    "require": {
+        "illuminate/support": "~5|~6|~7"
+    },
+    "autoload": {
+        "psr-4": {
+            "kraenzle-ritter\\timelogger\\": "src/"
+        }
+    }
+}
