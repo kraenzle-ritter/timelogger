@@ -2,6 +2,8 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 
+This is a more professional way: https://symfony.com/doc/current/components/stopwatch.html
+
 ## Installation
 
 ``` bash
