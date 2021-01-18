@@ -2,6 +2,10 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 
+This is a more professional way: https://symfony.com/doc/current/components/stopwatch.html
+
+However for the ease of logging (including the method´s name), I will leave this package available.
+
 ## Installation
 
 ``` bash
