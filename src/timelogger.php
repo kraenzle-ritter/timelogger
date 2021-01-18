@@ -1,6 +1,6 @@
 <?php
 
-namespace kraenzle-ritter\timelogger;
+namespace KraenzleRitter\timelogger;
 
 use Illuminate\Support\Facades\Log;
 
