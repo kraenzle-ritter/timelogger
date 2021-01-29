@@ -1,6 +1,7 @@
 # timelogger
 
 [![Latest Stable Version](https://poser.pugx.org/kraenzle-ritter/timelogger/v)](//packagist.org/packages/kraenzle-ritter/timelogger) [![Total Downloads](https://poser.pugx.org/kraenzle-ritter/timelogger/downloads)](//packagist.org/packages/kraenzle-ritter/timelogger) [![Latest Unstable Version](https://poser.pugx.org/kraenzle-ritter/timelogger/v/unstable)](//packagist.org/packages/kraenzle-ritter/timelogger) [![License](https://poser.pugx.org/kraenzle-ritter/timelogger/license)](//packagist.org/packages/kraenzle-ritter/timelogger)
+
 This is a more professional way: https://symfony.com/doc/current/components/stopwatch.html
 
 However for the ease of logging (including the method´s name), I will leave this package available.
