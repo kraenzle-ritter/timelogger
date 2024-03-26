@@ -23,7 +23,7 @@ class TimeLogger
 
     public static function start()
     {
-        return new TimeLogger();
+        return new static();
     }
 
     public function logTime($name = '', $minimum = 0)
