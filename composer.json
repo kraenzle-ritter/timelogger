@@ -12,7 +12,7 @@
     "homepage": "https://github.com/kraenzle-ritter/timelogger",
     "keywords": ["Laravel", "timelogger", "stopwatch"],
     "require": {
-        "laravel/framework": "^8|^9|^10|^11|^12",
+        "laravel/framework": "^8|^9|^10|^11|^12"
     },
     "autoload": {
         "psr-4": {
